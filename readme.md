@@ -10,3 +10,7 @@
 3. Queue
 
 # Python
+
+## DS
+
+1. Stacks
