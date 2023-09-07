@@ -6,5 +6,7 @@
 ## DS
 
 1. 2D Array using Vector
+2. Stack
+3. Queue
 
 # Python
