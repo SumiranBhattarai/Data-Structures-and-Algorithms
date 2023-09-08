@@ -13,4 +13,5 @@
 
 ## DS
 
-1. Stacks
+1. Stack
+2. Queue
