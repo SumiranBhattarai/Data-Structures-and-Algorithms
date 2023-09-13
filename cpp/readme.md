@@ -31,3 +31,7 @@
 
 1. Sort using STL `O(NlogN)`
 2. Binary Search `binarysearch(startidx,endidx,key)`
+3. Other Useful Algorithms
+4. Yet More Useful Array Algorithms
+   > [!note]-
+   > Partition is Skipped (Check GFG)
