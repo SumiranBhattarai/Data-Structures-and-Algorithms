@@ -27,11 +27,12 @@
 
 ## STL
 
-### Algorithms
-
 1. Sort using STL `O(NlogN)`
 2. Binary Search `binarysearch(startidx,endidx,key)`
 3. Other Useful Algorithms
 4. Yet More Useful Array Algorithms
    > [!note]-
    > Partition is Skipped (Check GFG)
+5. Vector
+6. Deque
+7. forward_list
